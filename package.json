@@ -1,11 +1,11 @@
 {
-    "name": "forknote-pool",
+    "name": "forknote-pool-sdl",
     "version": "0.0.2",
     "license": "GPL-2.0",
     "authors": "Matthew Little",
     "repository": {
         "type": "git",
-        "url": "https://github.com/niobio-cash/forknote-pool"
+        "url": "https://github.com/hardx4/forknote-pool-sdl"
     },
     "dependencies": {
         "bignum": "*",
@@ -15,7 +15,7 @@
         "dateformat": "*",
         "base58-native": "*",
         "multi-hashing": "git://github.com/niobio-cash/node-multi-hashing.git",
-        "cryptonote-util": "git://github.com/niobio-cash/node-cryptonote-util.git"
+        "cryptonote-util": "git://github.com/hardx4/node-cryptonote-util-sdl.git"
     },
     "engines": {
         "node": ">=0.10"
